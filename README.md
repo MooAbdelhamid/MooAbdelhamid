@@ -1,16 +1,14 @@
-## Hi there 👋
+## Mohamed Abdelhamid
 
-<!--
-**MooAbdelhamid/MooAbdelhamid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist with a background in systems engineering.
+Currently pursuing MSc in Data Science at Freie Universität Berlin.
 
-Here are some ideas to get you started:
+I build end-to-end ML pipelines from raw data to deployed APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Focus areas:** customer analytics · predictive modeling · data engineering
+
+**Stack:** Python · SQL · XGBoost · scikit-learn · FastAPI · Docker · Pandas
+
+📌 Featured projects:
+- [12-Month LTV Prediction](https://github.com/MooAbdelhamid/composite-ltv-modeling) — composite ML model for insurance customer value
+- [Crop Recommendation API](https://github.com/MooAbdelhamid/crop-recommendation) — FastAPI-served Random Forest classifier

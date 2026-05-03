@@ -2,7 +2,7 @@
 
 Data Scientist with a systems engineering background, currently pursuing an MSc in Data Science at Freie Universität Berlin.
 
-I build **end-to-end intelligent systems** — combining data, machine learning, and software engineering to solve real-world problems.
+I build **end-to-end intelligent systems** combining data, machine learning, and software engineering to solve real-world problems.
 My approach is rooted in **system thinking**, focusing on scalable, production-ready solutions rather than isolated models.
 
 ---

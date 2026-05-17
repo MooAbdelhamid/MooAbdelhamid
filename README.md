@@ -18,6 +18,7 @@ Status: In Development
 Multi-tenant SaaS platform implementing a database-per-tenant architecture for scalable and secure data isolation.
 **Stack:** FastAPI • PostgreSQL • Streamlit
 Status: In Development
+
 ---
 
 ### Tech Stack

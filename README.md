@@ -29,6 +29,7 @@ Python · SQL · scikit-learn · Deep Learning · FastAPI · Docker · Pandas ·
 
 ### Selected Projects
 
+* [GrainTrace]() — 
 * [BluePrint](https://github.com/MooAbdelhamid/blueprint-prototype) — 
 * [OrderPulse AI](https://github.com/MooAbdelhamid/orderpulse-ai) — 
 * [12-Month LTV Prediction](https://github.com/MooAbdelhamid/composite-ltv-modeling) — Composite ML model for insurance customer lifetime value
